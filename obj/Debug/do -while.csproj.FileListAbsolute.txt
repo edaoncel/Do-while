@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\do -while\bin\Debug\do -while.exe.config
+C:\Users\eda öncel\Desktop\do -while\bin\Debug\do -while.exe
+C:\Users\eda öncel\Desktop\do -while\bin\Debug\do -while.pdb
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do -while.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do -while.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do__while.Form1.resources
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do__while.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do -while.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do -while.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do -while.exe
+C:\Users\eda öncel\Desktop\do -while\obj\Debug\do -while.pdb
